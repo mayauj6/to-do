@@ -1,0 +1,55 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+
+
+}
+
+body {
+  background: pink;
+}
+
+form {
+  align-items: center;
+  padding: 20px;
+  font-family: georgia;
+}
+
+h1 {
+  color: white;
+  padding: 10px;
+  font-size: 80px;
+  font-family: georgia;
+}
+
+.task {
+  font-size: 25px;
+  font-family: georgia;
+  padding: 15px;
+
+}
+
+.submitButton {
+  background-color: purple;
+  border: 3px: orchid;
+  padding: 10px;
+  margin: 50px;
+  font-family: georgia;
+  color: white;
+  font-size: 15px;
+}
+
+.chore {
+  font-size: 25px;
+  color: purple;
+  margin: 10px;
+
+}
